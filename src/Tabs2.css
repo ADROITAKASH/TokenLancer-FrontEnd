@@ -1,0 +1,24 @@
+.tab {
+  display: flex;
+  margin-top: 20px;
+  justify-content: left;
+}
+
+.nav-pills .nav-link.active{
+color: #ffffff !important;
+background-color: #FF6F5E !important;
+}
+
+.tab > h4 > a{
+  color: #ffffff !important;
+  background-color: #212121 !important;
+  padding: 5px 10px 5px 10px;
+  margin: 10px;
+  border-radius: 10px;
+}
+.nav-item > a{
+  color: #FF6F5E !important;
+}
+ a, a:hover, a:focus, a:active {
+      text-decoration: none;
+ }
